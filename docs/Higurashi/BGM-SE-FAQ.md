@@ -9,11 +9,11 @@ In April 2019, all the Higurashi games received a major update. This update chan
   - In some cases, duplicates replaced existing BGM, resulting in less variation of BGM tracks
 - Some BGM/SE are modified or re-recorded versions of the same BGM/SE
 - Some BGM had their audio clipping and distortion fixed - but at the same time different sounding instruments or samples may have been used in the new version.
-- The game script was modified in some places to play different songs. Since the mod uses it's own script, we are unaffected by this.
+- The game script was modified in some places to play different songs. Since the mod uses its own script, we were unaffected by this.
 
 For more detailed information:
 
-- We have an google doc which lists the name of every BGM used by our mod:
+- We have a Google doc listing the name of every BGM used by our mod:
     - ["Higurashi BGM Filename to Music Name Mapping" spreadsheet](https://docs.google.com/spreadsheets/d/1CzZ6IBOPmDozdatWM2rol1DR2xjIaySSKY5XQV4yhdI/edit?usp=sharing)
     - **Please note this list is automatically generated and might not always be correct**
     - Please read the first sheet to understand the table
